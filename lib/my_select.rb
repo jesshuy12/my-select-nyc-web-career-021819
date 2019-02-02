@@ -8,4 +8,3 @@ def my_select(collection)
  return selected
 end
 
-end
