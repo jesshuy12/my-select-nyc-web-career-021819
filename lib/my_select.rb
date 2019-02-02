@@ -6,6 +6,6 @@ def my_select(collection)
     selected.push(collection[i])
     i += 1
  end
- selected
+ return selected
 end
 
