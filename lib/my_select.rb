@@ -5,6 +5,6 @@ def my_select(collection)
     selected.push(collection[i] if yield(collection[i]))
     i += 1
  end
- return selected
+ selected
 end
 
