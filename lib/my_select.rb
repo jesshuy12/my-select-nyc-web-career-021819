@@ -1,7 +1,4 @@
 def my_select(collection)
-  if collection == 0 
-    return nil
-  else
   i = 0 
   selected = []
     while i < collection.length 
